@@ -1,0 +1,10 @@
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+'touch' no es reconocido como un comando interno
+o externo, un programa operable ou um archivo en lotes.
+
+type nul > preguntas-semana2.txt
+type nul > comandos-terminal.txt
+type nul > reflexion-semana2.txt
+
