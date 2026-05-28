@@ -1,0 +1,28 @@
+1. Repositorio: Es una plataforma o sitio centralizado que permite almacenar información para su conservación, protección, difusión y consulta. Esto permite que sea de fácil acceso y que aquellos que estén interesados puedan encontrar la mayor cantidad de información en un solo lugar.
+2. Commit: Es una acción fundamental en sistemas de control de versiones como Git. Su función es señalar que fue alterado dentro del historial del proyecto, facilitando el rastreo de los cambios realizados y los aportes realizados por cada desarrollador.
+3. Push: Es la acción que permite enviar los commits de un repositorio local a uno remoto, lo cual permite gestionar el envio de alteraciones de forma eficiente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commit
+Push
