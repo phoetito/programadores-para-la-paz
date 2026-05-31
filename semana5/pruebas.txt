@@ -1,0 +1,2 @@
+
+Al abrirse la URL "http://localhost:3000" se encuentra el mensaje "Servidor activo". Después en la URL "http://localhost:3000/saludo" aparece el mensaje "Hola comunidad", y en la última URL "http://localhost:3000/mensaje/juan" sale el mensaje "Hola juan".

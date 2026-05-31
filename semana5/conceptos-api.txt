@@ -1,0 +1,5 @@
+1. ¿Qué hace esta ruta?
+Crea un endpoint para las peticiones de tipo POST en la dirección /reporte. De modo que recibe los datos, que están ocultos en el cuerpo (body) del mensaje y lo guarda en una variable que utiliza para procesar la información y responder en el mismo formato, en este caso JSON. Al final entrega una confirmación de que el mensaje fue recibido y una copia del contenido dentro del cuerpo del mensaje, demostrando que funciona sin problemas. 
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+Su utilidad en una aplicación comunitaria sería para brindar un canal de comunicación para que la comunidad pueda enviar alertas, quejas o reportes. Es util porque esto permite recibir la información de forma segura y devolver una confirmación inmediata al usuario de que su reporte fue escuchado y registrado con éxito por el sistema.
